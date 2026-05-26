@@ -1,0 +1,7 @@
+filename,locality_name,language,condition,duration_seconds,sample_rate,reference_transcript,auto_generated_reference
+sample_05_hitec_phonecall.wav,HITEC City,hindi,phonecall,3.0,16000,office HITEC City Hyderabad near cyber towers,False
+sample_01_koramangala_quiet.wav,Koramangala,hindi,quiet,3.0,16000,mera address hai Koramangala 5th block Bangalore,False
+sample_06_saltlake_quiet.wav,06 Salt Lake,hindi,quiet,3.0,16000,address Salt Lake sector 5 Kolkata,False
+sample_03_connaught_rushed.wav,Connaught Place,hindi,rushed,3.0,16000,pickup from Connaught Place block C New Delhi,False
+sample_02_andheri_traffic.wav,Andheri West,hindi,traffic,3.0,16000,delivery Andheri West ke paas metro station,False
+sample_04_jayanagar_whispered.wav,Jayanagar,hindi,whispered,3.0,16000,customer bol raha hai Jayanagar 4th block,False
