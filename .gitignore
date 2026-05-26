@@ -16,3 +16,6 @@ reports/assets/*.png
 .pytest_cache/
 .coverage
 htmlcov/
+tools/ffmpeg/
+*.zip
+*.exe
