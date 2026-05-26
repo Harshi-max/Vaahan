@@ -10,7 +10,7 @@ Production-quality benchmarking system for comparing ASR engines on **Indian acc
 
 # Live Dashboard
 
-## Benchmark Explorer
+## Benchmark Explorer(run bench mark first using below commands and check this live app)
 
 👉 **Live Streamlit App:**  
 https://vaahan-zcywkuzsskyj9jrbn2ioib.streamlit.app/
